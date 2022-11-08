@@ -13,6 +13,7 @@ h1 {
 nav{
     padding-left: 40px;
     padding-right: 40px;
+    color:#C4955C;
 }
 
 
@@ -28,13 +29,13 @@ nav{
 
 .jumbotron p {
     text-align: center;
-    color: white;
+    color: #C4955C;
     background-color: #121212;
 
 }
 
 .jumbotron h1 {
-    color: white;
+    color: #C4955C;
     font-weight: 800;
     background-color: #121212;
 }
@@ -61,7 +62,13 @@ nav{
  margin-bottom:100px;
 
 }
-
+.card-header{
+    background-color: #121212;
+}
+.btn {
+    color:#C4955C;
+    background-color: #121212;
+}
 
 #media .media-card {
 background-color: #121212;
@@ -76,7 +83,7 @@ margin-bottom:20px;
 .media-card .card-items {
     margin-left:40px;
     margin-right:60px;
-    color:white;
+    color:#C4955C;
 
 }
 footer {
@@ -87,15 +94,20 @@ footer {
   footer ul {
     list-style: none;
     padding-left: 5px;
+    color:#C4955C;
+
   }
   footer li {
     display: inline-block;
     padding: 0px 7px;
+    color:#C4955C;
+
   }
   footer ul {
     display: flex;
     justify-content: space-around;
     list-style-type: none;padding:30px;
+    color:#C4955C;
 
     
     
@@ -107,3 +119,24 @@ footer ul li a {
     text-decoration:none;
     
 }
+footer li {
+    display: inline-block;
+    padding: 0px 7px;
+  }
+  footer {
+    background-color: #373738;
+    padding: 5px;
+  
+  }
+  footer ul {
+    list-style: none;
+    padding-left: 5px;
+    color:#C4955C;
+    
+  }
+  .margin-bottom-five {
+    align: center;
+  }
+  .active {
+    color: #C4955C;
+  }
