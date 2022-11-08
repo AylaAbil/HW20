@@ -10,10 +10,20 @@ h1 {
     color: #C4955C;
 }
 
-nav{
+nav-item {
+  color:#C4955C;
+}
+nav-link {
     padding-left: 40px;
     padding-right: 40px;
     color:#C4955C;
+}
+container-fluid {
+  color:#C4955C;
+}
+}
+menu container fluid {
+  color:#C4955C;
 }
 
 
